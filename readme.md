@@ -2,6 +2,7 @@
 
 > Great resources for making Reinforcement Learning work in Real Life situations. Papers,projects and more.  
 
+![test](out.png)
 ## Description
 
 This list is big compilation of all things trying to adapt Reinforcement Learning techniques in real world.Whether it's mixing real world data into mix or trying to adapt simulations in a better way.It will also include some of Imitation Learning and Meta Learning along the way. If you have anything missing feel free to open a PR , I'm all for community contributions.  
