@@ -46,6 +46,7 @@ Any academic work done related to RL in real world.This is the other part of lis
 - [Emergent Real-World Robotic Skills via Unsupervised Off-Policy Reinforcement Learning](https://arxiv.org/abs/2004.12974)
 - [The Ingredients of Real-World Robotic Reinforcement Learning](https://arxiv.org/abs/2004.12570)
 - [Learning personalized treatments via IRL](https://arxiv.org/abs/1905.09710)
+- [Reinforcement Learning Applications](https://arxiv.org/pdf/1908.06973.pdf)
 
 ## Books
 
@@ -53,6 +54,7 @@ Any book dedicated to RL in real world or book parts that contains related conte
 
 - [Deep RL Hands On 2nd Edition Packt Edition](https://www.packtpub.com/data/deep-reinforcement-learning-hands-on-second-edition)
 *Has entire chapter dedicated to real world robotics agent*
+- [Foundations of Deep Reinforcement Learning: Theory and Practice in Python](https://www.pearson.com/us/higher-education/program/Graesser-Foundations-of-Deep-Reinforcement-Learning-Theory-and-Practice-in-Python/PGM2027228.html) *Few chapters related to real world applications*
 
 ## Conference Talks
 
@@ -155,4 +157,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 To the extent possible under law, Ugurkan Ates has waived all copyright and
 related or neighboring rights to this work.
 
-Contributors: *Ugurkan Ates*
+Contributors: *Ugurkan Ates,Vishal Sharma*
