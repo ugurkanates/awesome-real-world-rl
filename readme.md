@@ -47,6 +47,8 @@ Any academic work done related to RL in real world.This is the other part of lis
 - [The Ingredients of Real-World Robotic Reinforcement Learning](https://arxiv.org/abs/2004.12570)
 - [Learning personalized treatments via IRL](https://arxiv.org/abs/1905.09710)
 - [Reinforcement Learning Applications](https://arxiv.org/pdf/1908.06973.pdf)
+- [Challenges of Real-World Reinforcement Learning](https://arxiv.org/abs/1904.12901)
+- [An empirical investigation of the challenges of real-world reinforcement learning](https://arxiv.org/abs/2003.11881)
 
 ## Books
 
