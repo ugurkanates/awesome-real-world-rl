@@ -63,6 +63,15 @@ Any book dedicated to RL in real world or book parts that contains related conte
 Any recorded talk related to subject goes here.
 
 - [GPU Technology Conference 2017: Sim2real collision avoidance for indoor navigation of mobile robots](https://www.youtube.com/watch?v=qFmH4oZPlYY)
+- [Reinforcement learning and it's growing role in AI with Real World examples - Microsoft 2020](https://youtu.be/Qahd9poQvLs)
+- [RL in Real World 2020 Conference](https://sites.google.com/view/RL4RealLife)
+- [RL for Real Life Panel Discussion June 28 2020 ](https://youtu.be/lDdC8Gjat9w)
+- [RL for Real Life Panel June 27 2020](https://youtu.be/BB_PHF9hlJg)
+- [RL for Health Care Panel Discussion June 28 2020](https://youtu.be/dDSENm2smkQ)
+- [Learning to Dock Robustly](https://youtu.be/tlcAqwpxJUQ)
+- [On Demand Ride Sharing with RL](https://underline.io/lecture/493-neural-approximate-dynamic-programming-for-on-demand-ride-pooling)
+- [BADGR: An Autonomous Self-Supervised Learning-Based Navigation System](https://youtu.be/UtoZEwrDHj4)
+- [An empirical investigation of the challenges of real world Reinforcement Learning](https://youtu.be/1d6bD084-hY)
 
 
 ## Education 
@@ -105,7 +114,7 @@ Anything Multi Agent Real World RL related goes here.
 
 Any real world news or projects deployed RL in real life goes here.Mostly news,comments,blog posts etc.
 
-- [Waiting For it...](nothingyet)
+- [Reinforcement learning for the real world - Article](https://www.oreilly.com/radar/reinforcement-learning-for-the-real-world/)
 
 ## Offline RL
 
@@ -134,7 +143,6 @@ Saved datasets goes here . Real World data or Simulation data doesn't matter. As
 Any project link available on internet related to it goes here.
 
 - [Dexterity Network - Grasp Quality Convolutional Neural Networks (GQ-CNN)](https://berkeleyautomation.github.io/dex-net/)
-- [A Game That Learns How to Play Itself](https://www.hackster.io/Little_french_kev/a-game-that-learns-how-to-play-itself-db13a0)
 
 ## Libraries
 
