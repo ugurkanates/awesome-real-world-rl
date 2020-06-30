@@ -49,6 +49,7 @@ Any academic work done related to RL in real world.This is the other part of lis
 - [Reinforcement Learning Applications](https://arxiv.org/pdf/1908.06973.pdf)
 - [Challenges of Real-World Reinforcement Learning](https://arxiv.org/abs/1904.12901)
 - [An empirical investigation of the challenges of real-world reinforcement learning](https://arxiv.org/abs/2003.11881)
+- [Generalized State-Dependent Exploration for Deep Reinforcement Learning in Robotics](https://arxiv.org/abs/2005.05719)
 
 ## Books
 
@@ -151,6 +152,7 @@ Open source libraries related goes to here.
 - [State Representation Learning Zoo](https://github.com/araffin/srl-zoo)
 - [Robotics Reinforcement Learning](https://github.com/araffin/robotics-rl-srl)
 - [RL Bench](https://github.com/stepjam/RLBench)
+- [Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3)
 
 ## Prominent Researchers & Companies to Follow
 
