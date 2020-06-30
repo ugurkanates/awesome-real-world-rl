@@ -134,6 +134,7 @@ Saved datasets goes here . Real World data or Simulation data doesn't matter. As
 Any project link available on internet related to it goes here.
 
 - [Dexterity Network - Grasp Quality Convolutional Neural Networks (GQ-CNN)](https://berkeleyautomation.github.io/dex-net/)
+- [A Game That Learns How to Play Itself](https://www.hackster.io/Little_french_kev/a-game-that-learns-how-to-play-itself-db13a0)
 
 ## Libraries
 
