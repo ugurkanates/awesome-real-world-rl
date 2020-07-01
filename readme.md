@@ -155,7 +155,6 @@ Open source libraries related goes to here.
 - [State Representation Learning Zoo](https://github.com/araffin/srl-zoo)
 - [Robotics Reinforcement Learning](https://github.com/araffin/robotics-rl-srl)
 - [RL Bench](https://github.com/stepjam/RLBench)
-- [Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3)
 
 ## Prominent Researchers & Companies to Follow
 
@@ -168,6 +167,8 @@ Open source libraries related goes to here.
 - [Damien Ernst](https://scholar.google.com/citations?user=91ZxYSsAAAAJ&hl=en) *ULiege,Real Life solutions to energy related problems*
 - [Xinyang Geng](https://scholar.google.com/citations?user=vYougn0AAAAJ&hl=en) *A lot of Meta Learning and locomotion RL*
 - [Maxim Lapan](https://github.com/Shmuma) *Author of Deep RL Hands-On book*
+- [Scott Fujimoto](https://scholar.google.com/citations?user=1Nk3WZoAAAAJ&hl=en) *One of the most prominent Offline RL researcher*
+- [TalkRL Podcast](www.talkrl.com) *Includes a lot of new RL research*
 
 ## Contribute
 
