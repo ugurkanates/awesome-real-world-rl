@@ -50,6 +50,7 @@ Any academic work done related to RL in real world.This is the other part of lis
 - [Challenges of Real-World Reinforcement Learning](https://arxiv.org/abs/1904.12901)
 - [An empirical investigation of the challenges of real-world reinforcement learning](https://arxiv.org/abs/2003.11881)
 - [Generalized State-Dependent Exploration for Deep Reinforcement Learning in Robotics](https://arxiv.org/abs/2005.05719)
+- [Learning To Navigate The Synthetically Accessible Chemical Space Using Reinforcement Learning](https://arxiv.org/abs/2004.12485)
 
 ## Books
 
@@ -79,7 +80,9 @@ Any recorded talk related to subject goes here.
 
 Free or paid courses related to subject goes here.
 
-- [Stanford CS330 Meta RL + Multi Task by Chelsea Finn](https://www.youtube.com/watch?v=0rZtSwNOTQo)
+- [Stanford CS330 Meta RL + Multi Task by Chelsea Finn 2019-2020](https://www.youtube.com/watch?v=0rZtSwNOTQo)
+- [CMU Real Life Reinforcement Learning 2015](https://www.cs.cmu.edu/~ebrun/15889e/index.html) *A lot of advanced topics as well as talks about DARPA RL Challenge*
+- [Reinforcement Learning Robot Course CMPUT 652 Fall 2019](https://armahmood.github.io/rl-robots-course/)
 
 
 ## Simulation to Real with GANs
@@ -156,9 +159,16 @@ Open source libraries related goes to here.
 
 ## Prominent Researchers & Companies to Follow
 
-- [Sergey Levine](https://twitter.com/svlevine?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)*Google Robotics,UC Berkeley*
-- [Chelsea Finn](https://twitter.com/chelseabfinn?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)*Stanford Uni,Google Brain*
-- [Ashvin Nair](http://ashvin.me/)*UC Berkeley*
+- [Sergey Levine](https://twitter.com/svlevine?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) *Google Robotics,UC Berkeley*
+- [Chelsea Finn](https://twitter.com/chelseabfinn?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) *Stanford Uni,Google Brain*
+- [Ashvin Nair](http://ashvin.me/) *UC Berkeley*
+- [99andBeyond](https://99andbeyond.com/) *Chemical Company Uses RL for Research,Biomedical & Chemistry*
+- [Google Brain & Robotics](https://research.google/teams/brain/) *Mostly Real Life RL Robotics projects*
+- [X Company](https://x.company/) *A lot of physics and real life based problems with RL*
+- [Damien Ernst](https://scholar.google.com/citations?user=91ZxYSsAAAAJ&hl=en) *ULiege,Real Life solutions to energy related problems*
+- [Xinyang Geng](https://scholar.google.com/citations?user=vYougn0AAAAJ&hl=en) *A lot of Meta Learning and locomotion RL*
+- [Maxim Lapan](https://github.com/Shmuma) *Author of Deep RL Hands-On book*
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
