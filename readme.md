@@ -51,6 +51,7 @@ Any academic work done related to RL in real world.This is the other part of lis
 - [An empirical investigation of the challenges of real-world reinforcement learning](https://arxiv.org/abs/2003.11881)
 - [Generalized State-Dependent Exploration for Deep Reinforcement Learning in Robotics](https://arxiv.org/abs/2005.05719)
 - [Learning To Navigate The Synthetically Accessible Chemical Space Using Reinforcement Learning](https://arxiv.org/abs/2004.12485)
+- [Scaling simulation-to-real transfer by learning composable robot skills](https://arxiv.org/abs/1809.10253)
 
 ## Books
 
@@ -67,8 +68,7 @@ Any recorded talk related to subject goes here.
 - [GPU Technology Conference 2017: Sim2real collision avoidance for indoor navigation of mobile robots](https://www.youtube.com/watch?v=qFmH4oZPlYY)
 - [Reinforcement learning and it's growing role in AI with Real World examples - Microsoft 2020](https://youtu.be/Qahd9poQvLs)
 - [RL in Real World 2020 Conference](https://sites.google.com/view/RL4RealLife)
-- [RL for Real Life Panel Discussion June 28 2020 ](https://youtu.be/lDdC8Gjat9w)
-- [RL for Real Life Panel June 27 2020](https://youtu.be/BB_PHF9hlJg)
+- [RL for Real Life Panel Discussion June 27-28 2020](https://www.youtube.com/watch?v=lDdC8Gjat9w&feature=youtu.be)
 - [RL for Health Care Panel Discussion June 28 2020](https://youtu.be/dDSENm2smkQ)
 - [Learning to Dock Robustly](https://youtu.be/tlcAqwpxJUQ)
 - [On Demand Ride Sharing with RL](https://underline.io/lecture/493-neural-approximate-dynamic-programming-for-on-demand-ride-pooling)
@@ -119,6 +119,7 @@ Anything Multi Agent Real World RL related goes here.
 Any real world news or projects deployed RL in real life goes here.Mostly news,comments,blog posts etc.
 
 - [Reinforcement learning for the real world - Article](https://www.oreilly.com/radar/reinforcement-learning-for-the-real-world/)
+- [Reinforcement Learning Applications in Real Life June 2019](https://medium.com/@yuxili/rl-applications-73ef685c07eb)
 
 ## Offline RL
 
@@ -138,7 +139,7 @@ Saved datasets goes here . Real World data or Simulation data doesn't matter. As
 - [GQ-CNN Training Datasets](https://berkeley.app.box.com/s/6mnb2bzi5zfa7qpwyn7uq5atb7vbztng)
 - [GQ-CNN Object Mesh Datasets](https://berkeley.app.box.com/s/w6bmvvkp399xtjpgskwq1cytkndmm7cn)
 - [HDF5 Database of 3D Objects, Parallel-Jaw Grasps for YuMi, and Robustness Metrics](https://berkeley.app.box.com/s/eaq37px77jxktr8ggti016pr3gpudp9l)
-- [Google Robotics Dataset](https://sites.google.com/site/brainrobotdata/home/)*Includes Grasping-Push-Depth Image-Pouring-3DModels*
+- [Google Robotics Dataset](https://sites.google.com/site/brainrobotdata/home/) *Includes Grasping-Push-Depth Image-Pouring-3DModels*
 - [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/abs/2004.07219)
 
 
@@ -155,6 +156,11 @@ Open source libraries related goes to here.
 - [State Representation Learning Zoo](https://github.com/araffin/srl-zoo)
 - [Robotics Reinforcement Learning](https://github.com/araffin/robotics-rl-srl)
 - [RL Bench](https://github.com/stepjam/RLBench)
+- [RL Garage](https://github.com/rlworkgroup/garage)
+- [RL Robotic Meta World - Robotic Manipulation Tasks](https://github.com/rlworkgroup/metaworld)
+- [GYM Sawyer Robot Environments - ROS](https://github.com/rlworkgroup/gym-sawyer)
+
+
 
 ## Prominent Researchers & Companies to Follow
 
