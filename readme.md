@@ -52,6 +52,8 @@ Any academic work done related to RL in real world.This is the other part of lis
 - [Generalized State-Dependent Exploration for Deep Reinforcement Learning in Robotics](https://arxiv.org/abs/2005.05719)
 - [Learning To Navigate The Synthetically Accessible Chemical Space Using Reinforcement Learning](https://arxiv.org/abs/2004.12485)
 - [Scaling simulation-to-real transfer by learning composable robot skills](https://arxiv.org/abs/1809.10253)
+- [The Importance and the Limitations of Sim2Real for Robotic Manipulation in Precision Agriculture ](https://sim2real.github.io/assets/papers/2020/rizzardo.pdf)
+- [Decentralized Reinforcement Learning: Global Decision-Making via Local Economic Transactions](https://arxiv.org/abs/2007.02382)
 
 ## Books
 
@@ -74,6 +76,8 @@ Any recorded talk related to subject goes here.
 - [On Demand Ride Sharing with RL](https://underline.io/lecture/493-neural-approximate-dynamic-programming-for-on-demand-ride-pooling)
 - [BADGR: An Autonomous Self-Supervised Learning-Based Navigation System](https://youtu.be/UtoZEwrDHj4)
 - [An empirical investigation of the challenges of real world Reinforcement Learning](https://youtu.be/1d6bD084-hY)
+- [Why Sim2Real ? - July 10 2020](https://www.youtube.com/watch?v=Q-rsvVr2CjE&list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0)
+- [Visual Learning and Reasoning for Robotic Manipulation](https://rss2020vlrrm.github.io/)
 
 
 ## Education 
