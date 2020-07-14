@@ -67,7 +67,7 @@ Any book dedicated to RL in real world or book parts that contains related conte
 
 ## Blogs
 
-Compilation of blogs related to Reinforcement Learning and Artificial Intelligence in general
+Compilation of blogs related to Reinforcement Learning but not necessarily Real World RL.
 
 - [Lil'Log](https://lilianweng.github.io/lil-log/)
 - [Seita's Place](https://danieltakeshi.github.io/)
@@ -114,8 +114,7 @@ Free or paid courses related to subject goes here.
 
 ## Youtube Channels
 
-Interesting AI related channels to follow
-
+RL related content creators , not all videos are related to Real World RL.
 - [AI Prism Channel](https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw)
 - [Two Minute Papers](https://www.youtube.com/user/keeroyz)
 - [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
@@ -228,4 +227,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 To the extent possible under law, Ugurkan Ates has waived all copyright and
 related or neighboring rights to this work.
 
-Contributors: *Ugurkan Ates,Vishal Sharma*
+Contributors: *Ugurkan Ates,Vishal Sharma,Antonin RAFFIN,Marco Pleines,Francisco Ramos*
