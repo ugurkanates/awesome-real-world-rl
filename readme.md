@@ -15,8 +15,10 @@ I'm open to new categories so just read the [contributing doc](contributing.md) 
 
 - [Papers](#papers)
 - [Books](#books)
+- [Blogs](#blogs)
 - [Conference Talks](#conference-talks)
 - [Education](#education)
+- [Youtube Channels](#youtube-channels)
 - [Simulation to Real with GANs](#simulation-to-real-with-gans)
 - [Meta Reinforcement Learning](#meta-reinforcement-learning)
 - [Imitation Learning](#imitation)
@@ -63,6 +65,18 @@ Any book dedicated to RL in real world or book parts that contains related conte
 *Has entire chapter dedicated to real world robotics agent*
 - [Foundations of Deep Reinforcement Learning: Theory and Practice in Python](https://www.pearson.com/us/higher-education/program/Graesser-Foundations-of-Deep-Reinforcement-Learning-Theory-and-Practice-in-Python/PGM2027228.html) *Few chapters related to real world applications*
 
+## Blogs
+
+Compilation of blogs related to Reinforcement Learning and Artificial Intelligence in general
+
+- [Lil'Log](https://lilianweng.github.io/lil-log/)
+- [Seita's Place](https://danieltakeshi.github.io/)
+- [Berkeley Artificial Intelligence](https://bair.berkeley.edu/blog/)
+- [Andrej Karpathy blog](http://karpathy.github.io/)
+- [Deep Reinforcement Learning Series by Jonathan Hui](https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530)
+- [RL Weekly](https://www.endtoend.ai/rl-weekly/)
+- [Δ The Gradient](https://thegradient.pub/)
+
 ## Conference Talks
 
 Any recorded talk related to subject goes here.
@@ -84,10 +98,33 @@ Any recorded talk related to subject goes here.
 
 Free or paid courses related to subject goes here.
 
-- [Stanford CS330 Meta RL + Multi Task by Chelsea Finn 2019-2020](https://www.youtube.com/watch?v=0rZtSwNOTQo)
 - [CMU Real Life Reinforcement Learning 2015](https://www.cs.cmu.edu/~ebrun/15889e/index.html) *A lot of advanced topics as well as talks about DARPA RL Challenge*
 - [Reinforcement Learning Robot Course CMPUT 652 Fall 2019](https://armahmood.github.io/rl-robots-course/)
+- [Deep RL Bootcamp 26-27 August 2017 | Berkeley CA](https://www.youtube.com/playlist?list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U) — [website](https://sites.google.com/view/deep-rl-bootcamp/)
+- [CS 285 at UC Berkeley Deep Reinforcement Learning 2019](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A) — [website](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [UC Berkeley Deep Reinforcement Learning 2018](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
+- [CS234: Reinforcement Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) — [website](http://web.stanford.edu/class/cs234/index.html)
+- [UCL Course on RL with David Silver 2015](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) — [website](https://www.davidsilver.uk/teaching/)
+- [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+- [CS885 Spring 2018 at University of Waterloo - Reinforcement Learning](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc) — [website](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/)
+- [CS7015: Deep Learning](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT) — [website](https://www.cse.iitm.ac.in/~miteshk/CS7015.html)
+- [CS 330 at Stanford: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5) — [website](http://cs330.stanford.edu/)
+- [UC Berkeley CS294-158-SP20 Deep Unsupervised Learning Spring 2020](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos) — [website](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
 
+
+## Youtube Channels
+
+Interesting AI related channels to follow
+
+- [AI Prism Channel](https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw)
+- [Two Minute Papers](https://www.youtube.com/user/keeroyz)
+- [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
+- [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw)
+- [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew)
+- [Artificial Intelligence - All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
+- [DeepMind](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A)
+- [Lazy Programmer](https://www.youtube.com/channel/UCdROkkPGHy6uVpUrIB4n3YQ)
+- [Machine Learning with Phil](https://www.youtube.com/channel/UC58v9cLitc8VaCjrcKyAbrw)
 
 ## Simulation to Real with GANs
 
