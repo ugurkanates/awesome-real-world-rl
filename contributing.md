@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Helpful resource for COVID19 response
+- Helpful resource for Reinforcement Learning in Real World
 - If a category doesn't exist, we're open to new ones
-- No maps, trackers or news of COVID19
+- No advertisement related news or RL related topics doesnt deal with real life situtations
 - Original source of information (press release, etc) 
 - No paywall links
 

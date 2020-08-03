@@ -1,4 +1,4 @@
-# Awesome List of RL in Real World Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Real World RL [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Great resources for making Reinforcement Learning work in Real Life situations. Papers,projects and more.  
 
