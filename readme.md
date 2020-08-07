@@ -5,11 +5,10 @@
 ![test](out.png)
 ## Description
 
-This list is big compilation of all things trying to adapt Reinforcement Learning techniques in real world.Whether it's mixing real world data into mix or trying to adapt simulations in a better way.It will also include some of Imitation Learning and Meta Learning along the way. If you have anything missing feel free to open a PR , I'm all for community contributions.  
+This list is big compilation of all things trying to adapt Reinforcement Learning techniques in real world.Either it's mixing real world data into mix or trying to adapt simulations in a better way.It will also include some of Imitation Learning and Meta Learning along the way. If you have anything missing feel free to open a PR,I'm all for community contributions.  
 
 I'm open to new categories so just read the [contributing doc](contributing.md) and provide a pull request.
 
-*You can help also by starring our lovely repository and sharing <3 be safe !* 
 
 ## Contents
 
@@ -30,7 +29,7 @@ I'm open to new categories so just read the [contributing doc](contributing.md) 
 
 ## Papers
 
-Any academic work done related to RL in real world.This is the other part of list , anything doesn't fit but still related gets here.
+Any academic work done related to RL in real world.This is the other part of list,anything doesn't fit but still related gets here.
 
 - [Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World](https://arxiv.org/abs/1703.06907)
 - [Asymmetric Actor Critic for Image-Based Robot Learning](https://arxiv.org/abs/1710.06542)
@@ -59,9 +58,8 @@ Any academic work done related to RL in real world.This is the other part of lis
 
 Any book dedicated to RL in real world or book parts that contains related content.
 
-- [Deep RL Hands On 2nd Edition Packt Edition](https://www.packtpub.com/data/deep-reinforcement-learning-hands-on-second-edition)
-*Has entire chapter dedicated to real world robotics agent*
-- [Foundations of Deep Reinforcement Learning: Theory and Practice in Python](https://www.pearson.com/us/higher-education/program/Graesser-Foundations-of-Deep-Reinforcement-Learning-Theory-and-Practice-in-Python/PGM2027228.html) *Few chapters related to real world applications*
+- [Deep RL Hands On 2nd Edition Packt Edition](https://www.packtpub.com/data/deep-reinforcement-learning-hands-on-second-edition) - Has entire chapter dedicated to real world robotics agent.
+- [Foundations of Deep Reinforcement Learning: Theory and Practice in Python](https://www.pearson.com/us/higher-education/program/Graesser-Foundations-of-Deep-Reinforcement-Learning-Theory-and-Practice-in-Python/PGM2027228.html) - Few chapters related to real world applications.
 
 ## Conference Talks
 
@@ -85,7 +83,7 @@ Any recorded talk related to subject goes here.
 Free or paid courses related to subject goes here.
 
 - [Stanford CS330 Meta RL + Multi Task by Chelsea Finn 2019-2020](https://www.youtube.com/watch?v=0rZtSwNOTQo)
-- [CMU Real Life Reinforcement Learning 2015](https://www.cs.cmu.edu/~ebrun/15889e/index.html) *A lot of advanced topics as well as talks about DARPA RL Challenge*
+- [CMU Real Life Reinforcement Learning 2015](https://www.cs.cmu.edu/~ebrun/15889e/index.html) - A lot of advanced topics as well as talks about DARPA RL Challenge.
 - [Reinforcement Learning Robot Course CMPUT 652 Fall 2019](https://armahmood.github.io/rl-robots-course/)
 
 
@@ -137,13 +135,13 @@ Anything Offline Reinforcement Learning goes here.
 
 ## Datasets 
 
-Saved datasets goes here . Real World data or Simulation data doesn't matter. As long as it has good old (state,action,new_state,reward) tuple.
+Saved datasets goes here.
 
 - [RoboNet - Large Scale Multi Robot Learning](https://arxiv.org/pdf/1910.11215.pdf)
 - [GQ-CNN Training Datasets](https://berkeley.app.box.com/s/6mnb2bzi5zfa7qpwyn7uq5atb7vbztng)
 - [GQ-CNN Object Mesh Datasets](https://berkeley.app.box.com/s/w6bmvvkp399xtjpgskwq1cytkndmm7cn)
 - [HDF5 Database of 3D Objects, Parallel-Jaw Grasps for YuMi, and Robustness Metrics](https://berkeley.app.box.com/s/eaq37px77jxktr8ggti016pr3gpudp9l)
-- [Google Robotics Dataset](https://sites.google.com/site/brainrobotdata/home/) *Includes Grasping-Push-Depth Image-Pouring-3DModels*
+- [Google Robotics Dataset](https://sites.google.com/site/brainrobotdata/home/) - Includes Grasping-Push-Depth Image-Pouring-3DModels.
 - [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/abs/2004.07219)
 
 
@@ -168,17 +166,17 @@ Open source libraries related goes to here.
 
 ## Prominent Researchers & Companies to Follow
 
-- [Sergey Levine](https://twitter.com/svlevine?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) *Google Robotics,UC Berkeley*
-- [Chelsea Finn](https://twitter.com/chelseabfinn?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) *Stanford Uni,Google Brain*
-- [Ashvin Nair](http://ashvin.me/) *UC Berkeley*
-- [99andBeyond](https://99andbeyond.com/) *Chemical Company Uses RL for Research,Biomedical & Chemistry*
-- [Google Brain & Robotics](https://research.google/teams/brain/) *Mostly Real Life RL Robotics projects*
-- [X Company](https://x.company/) *A lot of physics and real life based problems with RL*
-- [Damien Ernst](https://scholar.google.com/citations?user=91ZxYSsAAAAJ&hl=en) *ULiege,Real Life solutions to energy related problems*
-- [Xinyang Geng](https://scholar.google.com/citations?user=vYougn0AAAAJ&hl=en) *A lot of Meta Learning and locomotion RL*
-- [Maxim Lapan](https://github.com/Shmuma) *Author of Deep RL Hands-On book*
-- [Scott Fujimoto](https://scholar.google.com/citations?user=1Nk3WZoAAAAJ&hl=en) *One of the most prominent Offline RL researcher*
-- [TalkRL Podcast](www.talkrl.com) *Includes a lot of new RL research*
+- [Sergey Levine](https://twitter.com/svlevine?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - Google Robotics,UC Berkeley.
+- [Chelsea Finn](https://twitter.com/chelseabfinn?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - Stanford Uni,Google Brain.
+- [Ashvin Nair](http://ashvin.me/) - UC Berkeley.
+- [99andBeyond](https://99andbeyond.com/) - Chemical Company Uses RL for Research,Biomedical & Chemistry.
+- [Google Brain & Robotics](https://research.google/teams/brain/) - Mostly Real Life RL Robotics projects.
+- [X Company](https://x.company/) - A lot of physics and real life based problems with RL.
+- [Damien Ernst](https://scholar.google.com/citations?user=91ZxYSsAAAAJ&hl=en) - ULiege,Real Life solutions to energy related problems.
+- [Xinyang Geng](https://scholar.google.com/citations?user=vYougn0AAAAJ&hl=en) - A lot of Meta Learning and locomotion RL.
+- [Maxim Lapan](https://github.com/Shmuma) - Author of Deep RL Hands-On book.
+- [Scott Fujimoto](https://scholar.google.com/citations?user=1Nk3WZoAAAAJ&hl=en) - One of the most prominent Offline RL researcher.
+- [TalkRL Podcast](www.talkrl.com) - Includes a lot of new RL research.
 
 ## Contribute
 
@@ -191,4 +189,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 To the extent possible under law, Ugurkan Ates has waived all copyright and
 related or neighboring rights to this work.
 
-Contributors: *Ugurkan Ates,Vishal Sharma*
+Contributors: Ugurkan Ates
