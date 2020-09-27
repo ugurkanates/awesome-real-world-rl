@@ -6,8 +6,6 @@
 
 This list is big compilation of all things trying to adapt Reinforcement Learning techniques in real world.Either it's mixing real world data into mix or trying to adapt simulations in a better way.It will also include some of Imitation Learning and Meta Learning along the way. If you have anything missing feel free to open a PR,I'm all for community contributions.  
 
-I'm open to new categories so just read the [contributing doc](contributing.md) and provide a pull request.
-
 
 ## Contents
 
@@ -17,7 +15,7 @@ I'm open to new categories so just read the [contributing doc](contributing.md) 
 - [Education](#education)
 - [Simulation to Real with GANs](#simulation-to-real-with-gans)
 - [Meta Reinforcement Learning](#meta-reinforcement-learning)
-- [Imitation Learning](#imitation)
+- [Imitation Learning](#imitation-learning)
 - [Multi Agent in Real World](#multi-agent-in-real-world)
 - [Real World Examples](#real-world-examples)
 - [Offline RL](#offline-rl)
@@ -50,7 +48,7 @@ Any academic work done related to RL in real world.This is the other part of lis
 - [Generalized State-Dependent Exploration for Deep Reinforcement Learning in Robotics](https://arxiv.org/abs/2005.05719)
 - [Learning To Navigate The Synthetically Accessible Chemical Space Using Reinforcement Learning](https://arxiv.org/abs/2004.12485)
 - [Scaling simulation-to-real transfer by learning composable robot skills](https://arxiv.org/abs/1809.10253)
-- [The Importance and the Limitations of Sim2Real for Robotic Manipulation in Precision Agriculture ](https://sim2real.github.io/assets/papers/2020/rizzardo.pdf)
+- [The Importance and the Limitations of Sim2Real for Robotic Manipulation in Precision Agriculture](https://sim2real.github.io/assets/papers/2020/rizzardo.pdf)
 - [Decentralized Reinforcement Learning: Global Decision-Making via Local Economic Transactions](https://arxiv.org/abs/2007.02382)
 
 ## Books
@@ -157,10 +155,9 @@ Open source libraries related goes to here.
 - [State Representation Learning Zoo](https://github.com/araffin/srl-zoo) - Implements most of SRL algorithms in robotic settings.
 - [Robotics Reinforcement Learning](https://github.com/araffin/robotics-rl-srl) - Customizable PyBullet gym robotic environment.
 - [RL Bench](https://github.com/stepjam/RLBench) - Includes object oriented approaches for robotic RL tasks.
-- [RL Garage](https://github.com/rlworkgroup/garage) - Includes common RL real world algorithms. 
+- [RL Garage](https://github.com/rlworkgroup/garage) - Includes common RL real world robotic benchmarks. 
 - [RL Robotic Meta World - Robotic Manipulation Tasks](https://github.com/rlworkgroup/metaworld) - Real world examples regarding to Meta Learning.
 - [GYM Sawyer Robot Environments - ROS](https://github.com/rlworkgroup/gym-sawyer) - Sawyer robot with ROS and RL.
-
 
 
 ## Prominent Researchers & Companies to Follow
@@ -171,7 +168,7 @@ Open source libraries related goes to here.
 - [99andBeyond](https://99andbeyond.com/) - Chemical Company Uses RL for Research,Biomedical & Chemistry.
 - [Google Brain & Robotics](https://research.google/teams/brain/) - Mostly Real Life RL Robotics projects.
 - [X Company](https://x.company/) - A lot of physics and real life based problems with RL.
-- [Damien Ernst](https://scholar.google.com/citations?user=91ZxYSsAAAAJ&hl=en) - ULiege,Real Life solutions to energy related problems.
+- [Damien Ernst](https://scholar.google.com/citations?user=91ZxYSsAAAAJ&hl=en) - Real Life solutions to energy related problems.
 - [Xinyang Geng](https://scholar.google.com/citations?user=vYougn0AAAAJ&hl=en) - A lot of Meta Learning and locomotion RL.
 - [Maxim Lapan](https://github.com/Shmuma) - Author of Deep RL Hands-On book.
 - [Scott Fujimoto](https://scholar.google.com/citations?user=1Nk3WZoAAAAJ&hl=en) - One of the most prominent Offline RL researcher.
