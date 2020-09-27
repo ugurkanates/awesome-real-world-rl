@@ -3,7 +3,6 @@
 > Great resources for making Reinforcement Learning work in Real Life situations. Papers,projects and more.  
 
 ![test](out.png)
-## Description
 
 This list is big compilation of all things trying to adapt Reinforcement Learning techniques in real world.Either it's mixing real world data into mix or trying to adapt simulations in a better way.It will also include some of Imitation Learning and Meta Learning along the way. If you have anything missing feel free to open a PR,I'm all for community contributions.  
 
@@ -114,7 +113,7 @@ Anything Imitation Learning goes here.
 
 Anything Multi Agent Real World RL related goes here.
 
-- [Waiting For it...](nothingyet)
+- [Python MARL](https://github.com/oxwhirl/pymarl)
 
 ## Real World Examples
 
@@ -155,12 +154,12 @@ Any project link available on internet related to it goes here.
 
 Open source libraries related goes to here.
 
-- [State Representation Learning Zoo](https://github.com/araffin/srl-zoo)
-- [Robotics Reinforcement Learning](https://github.com/araffin/robotics-rl-srl)
-- [RL Bench](https://github.com/stepjam/RLBench)
-- [RL Garage](https://github.com/rlworkgroup/garage)
-- [RL Robotic Meta World - Robotic Manipulation Tasks](https://github.com/rlworkgroup/metaworld)
-- [GYM Sawyer Robot Environments - ROS](https://github.com/rlworkgroup/gym-sawyer)
+- [State Representation Learning Zoo](https://github.com/araffin/srl-zoo) - Implements most of SRL algorithms in robotic settings.
+- [Robotics Reinforcement Learning](https://github.com/araffin/robotics-rl-srl) - Customizable PyBullet gym robotic environment.
+- [RL Bench](https://github.com/stepjam/RLBench) - Includes object oriented approaches for robotic RL tasks.
+- [RL Garage](https://github.com/rlworkgroup/garage) - Includes common RL real world algorithms. 
+- [RL Robotic Meta World - Robotic Manipulation Tasks](https://github.com/rlworkgroup/metaworld) - Real world examples regarding to Meta Learning.
+- [GYM Sawyer Robot Environments - ROS](https://github.com/rlworkgroup/gym-sawyer) - Sawyer robot with ROS and RL.
 
 
 
@@ -181,10 +180,6 @@ Open source libraries related goes to here.
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, Ugurkan Ates has waived all copyright and
 related or neighboring rights to this work.
