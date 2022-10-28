@@ -119,6 +119,7 @@ Any real world news or projects deployed RL in real life goes here.Mostly news,c
 
 - [Reinforcement learning for the real world - Article](https://www.oreilly.com/radar/reinforcement-learning-for-the-real-world/)
 - [Reinforcement Learning Applications in Real Life June 2019](https://medium.com/@yuxili/rl-applications-73ef685c07eb)
+- [Applications of Reinforcement Learning - Real-World Examples](https://nimblebox.ai/blog/reinforcement-learning-applications)
 
 ## Offline RL
 
